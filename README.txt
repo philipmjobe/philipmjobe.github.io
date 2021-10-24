@@ -29,3 +29,21 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+
+		We went to school together and reconnected after we graduated and we have been together ever since. We were
+						married in 2008 and it has been hands down the best decision I have ever made.
+
+						My wife Jennifer and I.
+
+
+						Kroger was very good to me in the 15 total years that I worked for them and I spent most of my tenure there
+				working on one of these two machines. I changed batteries in forklifts and pallet jacks and it really taught me
+				teamwork and the value of hard work as well. It was a great job that prepared me to follow this dream of
+				learning software development.
+
+				Some shots of my life.
