@@ -3021,8 +3021,8 @@ button:disabled,
   background-color: #4686a0;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed, fixed, fixed;
-  background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
-    linear-gradient(45deg, #921111 5%, #441212 30%, #0f0404);
+  background-image: url("images/pexels-anni-roenkae-2832382.jpg");
+    /* linear-gradient(45deg, #921111 5%, #441212 30%, #0f0404); */
   background-position: top left, center center, center center;
   background-size: auto, cover, cover;
   overflow: hidden;
@@ -3188,7 +3188,7 @@ button:disabled,
   /* -webkit-transition: opacity 1s ease; */
   /* -ms-transition: opacity 1s ease; */
   /* transition: opacity 1s ease; */
-  background-image: linear-gradient(45deg, #b81919, #020408);
+  background-image: url("images/pexels-pixabay-270404.jpg");
   content: "";
   height: 100%;
   left: 0;
@@ -3225,8 +3225,7 @@ body.is-preload #header:after {
   background-color: #680707;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed, fixed, fixed;
-  background-image: url("images/overlay2.png"), url("images/overlay4.svg"),
-    linear-gradient(45deg, #921111 5%, #441212 30%, #0f040495);
+  background-image: url("images/pexels-anni-roenkae-2832382.jpg");
   background-position: top left, center center, center center;
   background-size: auto, cover, cover;
   text-align: center;
