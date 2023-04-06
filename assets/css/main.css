@@ -193,7 +193,7 @@ body,
 input,
 select,
 textarea {
-  color: #666;
+  color: #080707;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 16pt;
   font-weight: 300;
@@ -3021,7 +3021,7 @@ button:disabled,
   background-color: #4686a0;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed, fixed, fixed;
-  background-image: url("images/pexels-anni-roenkae-2832382.jpg");
+  background-image: url("images/shining-pattern.jpg");
     /* linear-gradient(45deg, #921111 5%, #441212 30%, #0f0404); */
   background-position: top left, center center, center center;
   background-size: auto, cover, cover;
@@ -3188,7 +3188,7 @@ button:disabled,
   /* -webkit-transition: opacity 1s ease; */
   /* -ms-transition: opacity 1s ease; */
   /* transition: opacity 1s ease; */
-  background-image: url("images/pexels-pixabay-270404.jpg");
+  background-image: url("images/shining-pattern.jpg");
   content: "";
   height: 100%;
   left: 0;
@@ -3225,7 +3225,7 @@ body.is-preload #header:after {
   background-color: #680707;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed, fixed, fixed;
-  background-image: url("images/pexels-anni-roenkae-2832382.jpg");
+  background-image: url("images/header1.jpg");
   background-position: top left, center center, center center;
   background-size: auto, cover, cover;
   text-align: center;
